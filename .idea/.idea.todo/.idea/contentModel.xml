@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Pharm.WINDOWS-HF5DRQV\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Pharm.WINDOWS-HF5DRQV\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_todo.1054538357.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sdumbrava\todo" t="IncludeFlat">
+      <e p="node_modules" t="ExcludeRecursive">
+        <e p="@material-ui\core" t="IncludeRecursive" />
+        <e p="@types" t="IncludeRecursive">
+          <e p="prop-types" t="IncludeRecursive" />
+          <e p="react" t="IncludeRecursive" />
+        </e>
+        <e p="csstype" t="IncludeRecursive" />
+        <e p="history" t="IncludeRecursive" />
+        <e p="indefinite-observable" t="IncludeRecursive" />
+        <e p="isomorphic-fetch" t="IncludeRecursive" />
+        <e p="react" t="IncludeRecursive" />
+        <e p="react-dom" t="IncludeRecursive" />
+        <e p="react-redux" t="IncludeRecursive" />
+        <e p="react-router-dom" t="IncludeRecursive" />
+        <e p="react-router-redux" t="IncludeRecursive" />
+        <e p="react-scripts" t="IncludeRecursive" />
+        <e p="redux" t="IncludeRecursive" />
+        <e p="redux-saga" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
